@@ -41,4 +41,4 @@ Contributions to the Langchain LLM SQL Query Generator are welcome! If you have 
 Don't forget to give the project a star! Thanks again!
 
 ## Contact
-You can contact me at lindsaysunhendra@gmail.com for a shout out on this project :)
+You can contact me at yepunyoja@gmail.com for a shout out on this project :)
