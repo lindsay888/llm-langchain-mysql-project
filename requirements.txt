@@ -1,0 +1,6 @@
+pandas
+langchain
+langchain-openai
+ipykernel
+numpy
+json
