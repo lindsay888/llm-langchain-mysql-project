@@ -4,3 +4,4 @@ langchain-openai
 ipykernel
 numpy
 json
+mysql-connector-python
